@@ -13,3 +13,5 @@ euro is a C program that simulates euro league group drawing and calculates the 
 imdb_by_BERT is a NLP implementation to do sentiment analysis on imdb database written in Python.
 
 webserver is a HTTP web server handling different HTTP request with logging. It is written in Java.
+
+ProductLineScheduler is a C program that simulates the factory scheduling process and implements its scheduling algorithms
