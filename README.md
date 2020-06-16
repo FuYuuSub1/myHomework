@@ -14,4 +14,4 @@ imdb_by_BERT is a NLP implementation to do sentiment analysis on imdb database w
 
 webserver is a HTTP web server handling different HTTP request with logging. It is written in Java.
 
-ProductLineScheduler is a C program that simulates the factory scheduling process and implements its scheduling algorithms
+ProductLineScheduler is a C program that simulates the factory scheduling process and implements its scheduling algorithms.
